@@ -51,6 +51,7 @@ alias m2pdf='markdown2pdf -p'
 alias music='musikcube'
 alias usbmount='jmtpfs ~/mountpoint'
 alias unusbmount='fusermount -u ~/mountpoint'
+alias bible='kjv'
 
 #╔════════════════════════════════════════════════════════╕
 #║		Directory  			          │
@@ -80,6 +81,6 @@ alias hyperconf='cd ~/.config/hypr/ && sudo nvim hyprland.conf'
 #║				  			  │
 #╚════════════════════════════════════════════════════════╛
 
-alias update='sudo nixos-rebuild switch --upgrade && sudo flatpak update'
+alias update='sudo nix-channel --update && sudo nixos-rebuild switch --upgrade && sudo flatpak update'
 alias rebuild="sudo nixos-rebuild switch"
 
