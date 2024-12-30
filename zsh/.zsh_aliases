@@ -26,6 +26,7 @@ alias zshrc='source ~/.zshrc'
 #║		Shortcuts  			          │
 #╚════════════════════════════════════════════════════════╛
 
+alias polkit='/usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1 &'
 alias neofetch='fastfetch'
 alias fetch='fastfetch'
 alias clone='git clone'
@@ -76,6 +77,7 @@ alias grep='grep --color=auto'
 
 alias .config='cd ~/.config/'
 alias hyperconf='cd ~/.config/hypr/ && sudo nvim hyprland.conf'
+alias nixconf='cd /etc/nixos/ && sudo nvim configuration.nix'
 
 #╔════════════════════════════════════════════════════════╕
 #║				  			  │
