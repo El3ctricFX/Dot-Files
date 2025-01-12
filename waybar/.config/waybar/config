@@ -29,7 +29,7 @@
         "on-scroll-down": "hyprctl dispatch workspace r-1"
     },
     "custom/os_button": {
-        "format": "",
+        "format": "✝",
         "on-click": "rofi -show drun",
         "tooltip": false
     },

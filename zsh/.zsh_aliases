@@ -51,7 +51,7 @@ alias cd='z'
 alias m2pdf='markdown2pdf -p'
 alias music='musikcube'
 alias usbmount='jmtpfs ~/mountpoint'
-alias unusbmount='fusermount -u ~/mountpoint'
+alias usbremove='fusermount -u ~/mountpoint'
 alias bible='kjv'
 
 #╔════════════════════════════════════════════════════════╕
