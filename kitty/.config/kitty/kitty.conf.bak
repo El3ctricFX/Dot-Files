@@ -1,5 +1,10 @@
 # BEGIN_KITTY_THEME
-# Gruvbox Material Dark Hard
+# Nordfox
 include current-theme.conf
-background_opacity 0.9
 # END_KITTY_THEME
+
+background_opacity 0.9
+
+confirm_os_window_close 0
+
+

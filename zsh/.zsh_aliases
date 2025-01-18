@@ -53,6 +53,8 @@ alias music='musikcube'
 alias usbmount='jmtpfs ~/mountpoint'
 alias usbremove='fusermount -u ~/mountpoint'
 alias bible='kjv'
+alias rverse='cd ~/.daily && ./verse.sh && cd'
+alias dailynote='cd ~/.daily && vi .dailynote'
 
 #╔════════════════════════════════════════════════════════╕
 #║		Directory  			          │
