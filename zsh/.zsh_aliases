@@ -142,6 +142,7 @@
 
 	alias bar='cd ~/.config/waybar'
 	alias website='cd ~/Documents/GitHub/website/'
+	alias note='cd ~/.daily && vi note.txt'
 	alias dailynote='cd ~/.daily && vi .dailynote'
 	alias .config='cd ~/.config/'
 	alias hyperconf='cd ~/.config/hypr/ && sudo nvim hyprland.conf'
