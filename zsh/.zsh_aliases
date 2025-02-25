@@ -155,6 +155,5 @@
 	alias neofetch='fastfetch'
 	alias fetch='fastfetch'
 	alias grep='grep --color=auto' # Defaul Bash Alias
-	alias m2pdf='markdown2pdf -p' # Markdown 2 pdf converter
 	alias zshrc='source ~/.zshrc' # Refresh / Display Zsh Configuration
 	alias reway='killall waybar && nohup waybar &' # Restarts waybar
