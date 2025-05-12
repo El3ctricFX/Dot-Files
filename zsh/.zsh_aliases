@@ -134,6 +134,7 @@
 	
 	alias rverse='cd ~/.scripts/verse && ./verse.sh && cd'
 	alias rverse-add='cd ~/.scripts/verse && ./verse.sh -a && cd ~'
+	alias rchapter='cd ~/.scripts/chapters && ./chapter.sh && cd'
 
 
 #╔════════════════════════════════════════════════════════╕

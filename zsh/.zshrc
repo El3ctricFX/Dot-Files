@@ -42,7 +42,6 @@ zinit light Aloxaf/fzf-tab
 
 eval "$(starship init zsh)"
 eval "$(zoxide init zsh)"
-eval $(thefuck --alias fix)
 
 # Auto completions
 autoload -Uz compinit && compinit
